@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<?php include 'part/meta.php' ?>
+  <?php include 'part/function.php' ?>
 </head>
 <body>
 
